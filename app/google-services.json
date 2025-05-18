@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779831847623",
+    "project_id": "bookemp-b299f",
+    "storage_bucket": "bookemp-b299f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779831847623:android:82ed9cd792bf465f442ce2",
+        "android_client_info": {
+          "package_name": "com.example.bookemp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB98DlX31nOdm8JA-e6NOVy_sP30MjWh-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
